@@ -12,7 +12,6 @@ export const CounterApp = ({value}) =>{
     }
 
     const resta = () => setCounter(counter - 1);
-    
 
     const reset = () => setCounter(value);
     
